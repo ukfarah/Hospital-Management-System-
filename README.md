@@ -171,7 +171,7 @@ You are free to **use, modify, and distribute** it for personal or commercial pu
 
 ## 👨‍💻 Author
 
-****Farah Mohamed***  
+***Farah Mohamed***  
 
 ---
 
