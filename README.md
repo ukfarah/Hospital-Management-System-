@@ -11,17 +11,17 @@ Whether you're a hospital administrator, medical records officer, or a developer
 The following screenshots demonstrate different parts of the system interface. All images are centered and designed with a focus on clarity and usability.
 
 
-![image](https://github.com/user-attachments/assets/1153282b-df6a-4889-b999-d5c037cd2ead)"
+![image](https://github.com/user-attachments/assets/1153282b-df6a-4889-b999-d5c037cd2ead)
 
-![image](https://github.com/user-attachments/assets/f5c6f99a-08bd-4198-ac38-a1c2be1e93c5)" width="600" alt="Add Patient Screenshot"/>
+![image](https://github.com/user-attachments/assets/f5c6f99a-08bd-4198-ac38-a1c2be1e93c5)
 
-![image](https://github.com/user-attachments/assets/7b353da3-cc6a-4645-ab53-509b9aa150f2)" width="600" alt="Doctor List Screenshot"/>
+![image](https://github.com/user-attachments/assets/7b353da3-cc6a-4645-ab53-509b9aa150f2)
 
-![image](https://github.com/user-attachments/assets/c7d58360-2e0b-44bd-93c2-e5e795a4ec85)" width="600" alt="Appointment Screenshot"/>
+![image](https://github.com/user-attachments/assets/c7d58360-2e0b-44bd-93c2-e5e795a4ec85)
 
-![image](https://github.com/user-attachments/assets/5777b807-5a77-4b86-8083-a98b14887013)" width="600" alt="Lab Reports Screenshot"/>
+![image](https://github.com/user-attachments/assets/5777b807-5a77-4b86-8083-a98b14887013)
 
-![image](https://github.com/user-attachments/assets/77428d91-c21c-44e4-81cc-f6d1d670100b)" width="600" alt="Insurance Screenshot"/>
+![image](https://github.com/user-attachments/assets/77428d91-c21c-44e4-81cc-f6d1d670100b)
 
 ---
 
