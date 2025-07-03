@@ -10,10 +10,8 @@ Whether you're a hospital administrator, medical records officer, or a developer
 
 The following screenshots demonstrate different parts of the system interface. All images are centered and designed with a focus on clarity and usability.
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1153282b-df6a-4889-b999-d5c037cd2ead)" width="600" alt="Dashboard Screenshot"/>
-  <br><em>Centralized dashboard overview</em>
-</p>
+
+  <img src="![image](https://github.com/user-attachments/assets/1153282b-df6a-4889-b999-d5c037cd2ead)"
 
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/f5c6f99a-08bd-4198-ac38-a1c2be1e93c5)" width="600" alt="Add Patient Screenshot"/>
